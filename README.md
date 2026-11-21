@@ -1,3 +1,4 @@
+<img width="800" height="449" alt="black" src="https://github.com/user-attachments/assets/54af3588-5392-486d-b5fd-978666d26e8c" />
 # BLACKSITE // Cyber Intelligence Workstation
 
 An offline-first, cinematic cyber-intelligence simulation environment built with React, TypeScript, Three.js, Recharts, and xterm.js. Designed as a full-screen desktop operating environment for visual demonstration and entertainment.
